@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi I am Matt Merritt 😁
+
+I recently graduated from Georgia Tech Bootcamp.
