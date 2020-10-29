@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-I recently graduated from Georgia Tech Bootcamp.
+I am currently enrolled at Georgia Tech Bootcamp.
 
 Contact via email matt17merritt@gmail.com
