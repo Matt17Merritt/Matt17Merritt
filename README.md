@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I recently graduated from Georgia Tech Bootcamp.
 
-Contact via email @matt17merritt@gmail.com
+Contact via email matt17merritt@gmail.com
